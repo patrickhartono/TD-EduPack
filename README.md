@@ -1,28 +1,38 @@
-📦 TD-EduPack
+📦 TD-EduPack (big-update)
 
 TD-EduPack is a collection of TouchDesigner templates created for first-year RMIT Vietnam design students who are completely new to node-based interactive systems.
-This pack provides simple, beginner-friendly .tox and .toe files that help students explore fundamental concepts in TouchDesigner without needing to start from scratch.
+This updated version restructures the toolkit to better reflect current TouchDesigner workflows, separating POP-based and SOP-based approaches and simplifying the learning path.
 
-The goal is to offer an easy, accessible, and ready-to-use starting point for learning generative design, interactive visuals, and real-time media experimentation.
+The pack provides beginner-friendly .tox and .toe files that allow students to explore generative design, interactive visuals, and real-time media systems without starting from scratch.
 
-📁 These are the modules included in this release:
+The goal remains the same:
+to offer an easy, accessible, and ready-to-use starting point for learning TouchDesigner through hands-on experimentation.
 
-### TOX Files
-- AudioIn.tox  
-- DataMapping.tox  
-- Image_Adjustment.tox  
-- Modulator.tox  
-- MoviePlayback.tox  
-- PhotoshopIn.tox  
-- RandGen.tox  
-- Simple_Export.tox  
-- Simple3D_Renderer.tox  
-- SoundToAnimation_Geo.tox  
-- SoundToAnimation_Movie.tox  
+📁 Modules included in this released:
+
+### TOX Files (Modules)
+- DataMapping.tox
+- Geo_Adjustment_POP.tox
+- Geo_Adjustment_SOP.tox
+- Image_Adjustment.tox
+- Modulator.tox
+- PhotoshopIn.tox
+- RandGen.tox
+- Simple3D_Renderer_POP.tox
+- Simple3D_Renderer_SOP.tox
+- SoundToAnimation_Geo.tox
+- Simple_Export.tox
+
+⚠️ Older modules such as MoviePlayback.tox, SoundToAnimation_Movie.tox, and legacy Simple3D_Renderer.tox have been removed in this update to streamline the toolkit.
 
 ### TOE Files
-- PHsOperator.17.toe  
+- Demo.toe
 - PHsOperator.toe
+- PHsOperator.52.toe
+
+###Backup Folder
+- Backup/
+  Contains archived versions of earlier .toe files for reference and recovery during teaching and experimentation.
 
 ![TD-EduPack](https://github.com/user-attachments/assets/4795f769-5f64-44c4-840c-0c1624f89ffb)
 
