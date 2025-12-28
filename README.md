@@ -1,6 +1,6 @@
 📦 TD-EduPack (big-update)
 
-TD-EduPack is a collection of TouchDesigner templates created for first-year RMIT Vietnam design students who are completely new to node-based interactive systems.
+TD-EduPack is a collection of TouchDesigner templates created initially for first-year RMIT Vietnam design students (DMS 1) who are completely new to node-based interactive systems.
 This updated version restructures the toolkit to better reflect current TouchDesigner workflows, separating POP-based and SOP-based approaches and simplifying the learning path.
 
 The pack provides beginner-friendly .tox and .toe files that allow students to explore generative design, interactive visuals, and real-time media systems without starting from scratch.
